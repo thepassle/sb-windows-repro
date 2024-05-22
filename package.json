@@ -1,0 +1,20 @@
+{
+  "name": "sb-windows-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "storybook dev -p 6006"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@web/storybook-builder": "^0.1.16",
+    "@web/storybook-framework-web-components": "^0.1.2",
+    "storybook": "^7.6.19"
+  },
+  "dependencies": {
+    "lit": "^3.1.3"
+  }
+}
